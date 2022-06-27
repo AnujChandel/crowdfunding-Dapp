@@ -1,0 +1,4 @@
+[
+  "function transfer() view returns (s _target)",
+  "function setname(string memory _name,string memory _description,uint _target,string memory _deadline)"
+]
