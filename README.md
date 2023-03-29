@@ -22,7 +22,10 @@ You can also check the total Ethers donated for croudfunding.
 
 
 
-![React App - Google Chrome 30-03-2023 01_28_42](https://user-images.githubusercontent.com/103368827/228654263-4e1434b0-86b9-43ca-8ff7-d96cc0242f7b.png)
+
+![React App - Google Chrome 30-03-2023 01_42_02](https://user-images.githubusercontent.com/103368827/228656427-fc119c03-bd8f-461a-af8c-b3b0029d69ba.png)
 
 
-![React App - Google Chrome 30-03-2023 01_31_45](https://user-images.githubusercontent.com/103368827/228654278-6ad5b80f-a09d-4b9b-9200-8272f6bdae22.png)
+
+
+![React App - Google Chrome 30-03-2023 01_42_16](https://user-images.githubusercontent.com/103368827/228656438-68e5f5f3-a5bc-47a9-b2f5-2926a0c826e6.png)
